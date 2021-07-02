@@ -14,6 +14,7 @@
 		8559D804267FA66F002DA932 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8559D803267FA66F002DA932 /* Assets.xcassets */; };
 		8559D807267FA66F002DA932 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8559D805267FA66F002DA932 /* LaunchScreen.storyboard */; };
 		8559D810267FA6A3002DA932 /* FriendsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8559D80F267FA6A3002DA932 /* FriendsModel.swift */; };
+		CE584AAF268C971700B1673A /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE584AAE268C971700B1673A /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8559D806267FA66F002DA932 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8559D808267FA66F002DA932 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8559D80F267FA6A3002DA932 /* FriendsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsModel.swift; sourceTree = "<group>"; };
+		CE584AAE268C971700B1673A /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				8559D7FA267FA652002DA932 /* AppDelegate.swift */,
 				8559D7FC267FA652002DA932 /* SceneDelegate.swift */,
 				8559D7FE267FA652002DA932 /* ViewController.swift */,
+				CE584AAE268C971700B1673A /* CollectionViewCell.swift */,
 				8559D800267FA652002DA932 /* Main.storyboard */,
 				8559D80F267FA6A3002DA932 /* FriendsModel.swift */,
 				8559D803267FA66F002DA932 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE584AAF268C971700B1673A /* CollectionViewCell.swift in Sources */,
 				8559D7FF267FA652002DA932 /* ViewController.swift in Sources */,
 				8559D810267FA6A3002DA932 /* FriendsModel.swift in Sources */,
 				8559D7FB267FA652002DA932 /* AppDelegate.swift in Sources */,
